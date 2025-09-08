@@ -1,5 +1,4 @@
-<!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:06B6D4,100:3B82F6&height=220&section=header&text=Hi%20I'm%20Your%20Name&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Computer%20Science%20Graduate&descAlignY=65&descAlign=50)
+# 👋 Hi, I'm Rajay
 
 🎓 I hold a **B.Sc. in Computing (Computer Science)** and I’m passionate about building efficient, scalable, and user-friendly applications.  
 💻 With experience in both **front-end** and **back-end** development, I enjoy solving complex problems and constantly learning new technologies.
@@ -35,20 +34,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeckJay&show_icons=true&theme=tokyonight&hide_border=true)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TeckJay&theme=tokyonight&hide_border=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeckJay&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Let's Connect
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TeckJay)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TeckJay)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachjae4@gmail.com)
 
 ---
 
