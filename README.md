@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajay
 
-🎓 I hold a **B.Sc. in Computing (Computer Science)** and I’m passionate about building efficient, scalable, and user-friendly applications.  
+💼 I’m a **Software Engineer** with a **B.Sc. in Computing (Computer Science)**, passionate about building efficient, scalable, and user-friendly applications.  
 💻 With experience in both **front-end** and **back-end** development, I enjoy solving complex problems and constantly learning new technologies.
 
 ---
@@ -24,12 +24,18 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ---
 
 ## 🌟 Highlights
 - Strong foundation in **Computer Science principles**  
 - Hands-on experience in **modern web & mobile frameworks**  
-- Comfortable working in **collaborative environments** or **independent projects**  
+- Skilled in working with **relational & NoSQL databases**  
+- Comfortable in **collaborative environments** or **independent projects**  
 - Driven to create impactful solutions using technology  
 
 ---
@@ -41,4 +47,4 @@
 
 ---
 
-⭐️ *Feel free to explore my repositories to see projects showcasing my skills across different languages and frameworks!*
+⭐️ *Feel free to explore my repositories to see projects showcasing my skills across different languages, frameworks, and databases!*
